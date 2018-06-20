@@ -1,0 +1,1 @@
+viniro-image-bucket
